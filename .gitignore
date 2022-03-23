@@ -1,0 +1,5 @@
+src/PatDependencyInjection/bin
+src/PatDependencyInjection/obj
+src/PatDependencyInjection.Tests/bin
+src/PatDependencyInjection.Tests/obj
+src/.vs/
